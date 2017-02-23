@@ -1,5 +1,5 @@
-	int sizeX = 400;
-	int sizeY = 400;
+int sizeX = 400;
+int sizeY = 400;
 public void setup()
 {
 	size(400,400);
